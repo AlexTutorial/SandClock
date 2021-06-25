@@ -1,2 +1,3 @@
 # SandClock
-Схема в файле Untitled Sketch_bb.png
+Схема:
+![CORE_PHOTO](https://github.com/AlexTutorial/SandClock/blob/main/Untitled%20Sketch_bb.png)
