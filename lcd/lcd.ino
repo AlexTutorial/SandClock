@@ -4,6 +4,10 @@
 #include <LiquidCrystal_I2C.h>
 #include <GyverButton.h>
 
+#if defined(__AVR_ATmega2560__)
+#pragma message "Скачай MegaCore: github.com/AlexTutorial/MegaCore"
+#endif
+
 GButton button(2);
 
 int32_t tmr = millis();
